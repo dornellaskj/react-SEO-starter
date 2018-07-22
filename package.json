@@ -1,6 +1,6 @@
 {
   "name": "react-seo-starter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Starter project for React taking into account SEO needs from the start.",
   "main": "server/bin/server.js",
   "scripts": {
@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/dornellaskj/SEOstarter"
+    "url": "https://github.com/dornellaskj/react-SEO-starter.git"
   },
   "keywords": [
     "react",
