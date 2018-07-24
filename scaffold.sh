@@ -1,3 +1,4 @@
+#!/bin/bash
 echo Please enter the name of your new page
 read pageName
 upperPageName=`echo ${pageName:0:1} | tr  '[a-z]' '[A-Z]'`${pageName:1}
